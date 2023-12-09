@@ -1,7 +1,7 @@
 ### Hi 👋 I Am Chumki Khatun
 <div align="center>
 
-<img width="100%" src="https://raw.githubusercontent.com/Chumki111/Chumki111/main/blue-futuristic-networking-technology_53876-97395.jpg" alt="cover" />
+<img width="100%" src="assets/blue-futuristic-networking-technology_53876-97395.jpg" alt="cover" />
 </div>
 
 
