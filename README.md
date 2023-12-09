@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 -  Fun fact: ...
 
-## ⚡ My Current Stats
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=iceberg)](https://git.io/streak-stats)
+##  My Current Stats
+<h3 align="center">⚡ My Current Stats</h3>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=dark" alt="Chumki111" /></p>
 
