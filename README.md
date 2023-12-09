@@ -1,10 +1,6 @@
 ### Hi 👋 I Am Chumki Khatun
 
-<video width="640" height="360" controls>
-  <source src="https://marketplace.canva.com/EAE_0GKGC2c/1/0/800w/canva-blue-modern-technology-youtube-video-intro-4Z8GRJ_8z6U.mp4" type="video/mp4">
-  
-</video>
-
+![Alt text](assests/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.avif)
 
 ##  My Current Stats
 <h3 align="center">⚡ My Current Stats</h3>  
