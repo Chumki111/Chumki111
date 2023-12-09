@@ -18,12 +18,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,firebase,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=tailwind,firebase,materialui," />
   </a>
 </p>
 <p align="center">
