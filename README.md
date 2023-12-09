@@ -14,6 +14,17 @@
 <h3 align="center">⚡ My Current Stats</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=dark" alt="Chumki111" /></p>
 
+</br>
+
+<h2>##👀 About me</h2>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 👯 I’m looking to collaborate on open source projects 
+- 💬 Ask me about JavaScript,React
+- 📫 How to reach me **chumkikhatun370@gmail.com**
+-  Fun fact - I love to explore new language.
+
 <h2>💻 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 
 <p align="center">
