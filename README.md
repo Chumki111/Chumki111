@@ -1,9 +1,10 @@
-### Hi 👋 I Am Chumki Khatun
+### 
+<h1 align="center">Hi 👋 I Am Chumki Khatun  
 
 
 <img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;">
 
-
+<h3 align="center">A passionate Frontend Developer</h3> 
 
 ##  My Current Stats
 <h3 align="center">⚡ My Current Stats</h3>  
