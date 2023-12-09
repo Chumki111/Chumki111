@@ -1,6 +1,8 @@
 ### Hi 👋 I Am Chumki Khatun
+<div align="center>
 
-![Alt text](assests/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.avif)
+
+</div>
 
 ##  My Current Stats
 <h3 align="center">⚡ My Current Stats</h3>  
