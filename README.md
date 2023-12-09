@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,firebase,materialui," />
+    <img src="https://skillicons.dev/icons?i=tailwind,firebase,materialui,bootstrap" />
   </a>
 </p>
 <p align="center">
