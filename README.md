@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate Frontend Developer</h3> 
 
-##  My Current Stats
+## 📈 My Current Stats
 <h3 align="center">⚡ My Current Stats</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=dark" alt="Chumki111" /></p>
 
@@ -22,7 +22,7 @@
 - 📫 How to reach me **chumkikhatun370@gmail.com**
 -  Fun fact - I love to explore new language.
 
-<h2>Contact With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
+<h2>📖 Contact With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chumki-khatun-3083232a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chumkikhatun" height="30" width="40" /></a> 
