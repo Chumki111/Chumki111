@@ -1,8 +1,7 @@
 ### Hi 👋 I Am Chumki Khatun
 
 
-![Alt text](assests/blue-futuristic-networking-technology_53876-97395.jpg)
-<img src="assests/blue-futuristic-networking-technology_53876-97395.jpg" alt="Alt text" style="width: 100%">
+<img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%">
 
 
 
