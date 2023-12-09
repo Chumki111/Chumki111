@@ -21,4 +21,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,materialui,tailwind,tailwind" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,firebase,materialui,tailwind" />
+  </a>
+</p>
 
