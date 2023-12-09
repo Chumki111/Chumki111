@@ -2,6 +2,7 @@
 
 
 ![Alt text](assests/blue-futuristic-networking-technology_53876-97395.jpg)
+<img src="assests/blue-futuristic-networking-technology_53876-97395.jpg" alt="Alt text" style="width: 100%">
 
 
 
