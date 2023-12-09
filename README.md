@@ -35,17 +35,9 @@
 
 <p align="center">
   <a href="https://github.com/Chumki111">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Chumki111">
-    <img src="https://skillicons.dev/icons?i=tailwind,firebase,materialui,bootstrap" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Chumki111">
-    <img src="https://skillicons.dev/icons?i=express,mongodb" />
-  </a>
-</p>
+
+
 
