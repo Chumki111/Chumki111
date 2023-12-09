@@ -1,7 +1,7 @@
 ### Hi 👋 I Am Chumki Khatun
 
 
-<img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%">
+<img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;">
 
 
 
