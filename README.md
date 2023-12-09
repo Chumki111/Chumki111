@@ -18,12 +18,16 @@
 
 <h2>##👀 About me</h2>
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about JavaScript,React
 - 📫 How to reach me **chumkikhatun370@gmail.com**
 -  Fun fact - I love to explore new language.
+
+<h2>Contact With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
+
+<a href="https://www.linkedin.com/in/chumki-khatun-3083232a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chumkikhatun" height="30" width="40" /></a> 
+<a href="https://www.facebook.com/profile.php?id=100093644379500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chumkikhatun" height="30" width="40" /></a> 
 
 <h2>💻 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
 
