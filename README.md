@@ -1,8 +1,8 @@
-### Hi 👋 I Am Chumki Khatunjfgd
-<div align="center>
+### Hi 👋 I Am Chumki Khatun
+
 
 ![Alt text](assests/blue-futuristic-networking-technology_53876-97395.jpg)
-</div>
+
 
 
 ##  My Current Stats
