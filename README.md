@@ -1,6 +1,6 @@
 
-<!-- <img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;"> -->
-[![Video Thumbnail](./assests/_Green%20and%20Black%20Futuristic%20Gaming%20Channel%20Youtube%20Outro.mp4)](./assests/_Green%20and%20Black%20Futuristic%20Gaming%20Channel%20Youtube%20Outro.mp4)
+<img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;">
+<!-- [![Video Thumbnail](./assests/_Green%20and%20Black%20Futuristic%20Gaming%20Channel%20Youtube%20Outro.mp4)](./assests/_Green%20and%20Black%20Futuristic%20Gaming%20Channel%20Youtube%20Outro.mp4) -->
 
 <h1 align="center">Hi 👋 I Am Chumki Khatun  
 
