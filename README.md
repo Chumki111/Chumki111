@@ -12,8 +12,11 @@
 <h3 align="center">⚡ My Current Stats</h3>  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chumki111&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=dark" alt="Chumki111" /></div>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=dark" alt="Chumki111" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chumki111&theme=react&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chumki111&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 
 </br>
 
