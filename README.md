@@ -2,11 +2,6 @@
 <img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;">
 
 
-<video width="100%" height="500px" controls>
-  <source src="https://streamable.com/um967v" type="video/avif">
-  
-</video>
-
 <h1 align="center">Hi 👋 I Am Chumki Khatun  
 
 <h3 align="center">A passionate Frontend Developer</h3> 
