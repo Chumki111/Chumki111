@@ -1,5 +1,5 @@
 
-<img src="assests/programming-background-collage_23-2149901771.avif" alt="Alt text" style="width: 100%;height: 500px;">
+<img src="https://i.ibb.co/Tm56Pwh/Blue-Purple-Abstract-Cosmic-Neon-Desktop-Wallpaper.png" alt="Alt text" style="width: 100%;height: 500px;">
 
 
 <h1 align="center">Hi 👋 I Am Chumki Khatun  
