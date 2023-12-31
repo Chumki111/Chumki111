@@ -13,9 +13,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chumki111&theme=react&hide_border=false" alt="chumki111"/>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Chumki111&theme=dark)](https://git.io/streak-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=chumki111&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="chumki111"/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chumki111&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="chumki111"/>
 
 
 
