@@ -14,7 +14,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chumki111&theme=react&hide_border=false" alt="Chumki111"/>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Chumki111&theme=dark)](https://git.io/streak-stats) -->
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chumki111&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 
 </div>
