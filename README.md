@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/t3Zy5CX/Blue-Purple-Abstract-Cosmic-Neon-Desktop-Wallpaper-1.png" alt="Alt text" style="width: 100%;height: 500px;">
+<img src="https://i.ibb.co/2yCWnkf/Blue-Dark-Keyboard-Search-Bar-Desktop-Wallpaper.png" alt="Alt text" style="width: 100%;height: 500px;">
 
 
 <h1 align="center">Hi 👋 I Am Chumki Khatun  
