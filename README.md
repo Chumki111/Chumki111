@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Frontend Developer</h3> 
 
 ## 📈 My Current Stats
-<h3 align="center">⚡ My Current Stats</h3>  
+
 <div align="center">
 
 
